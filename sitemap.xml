@@ -6,7 +6,15 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
     <url>
-          <loc>https://msar.me/</loc>
+          <loc>https://pages.msar.me/</loc>
+          <lastmod>2020-12-14T13:50:09+00:00</lastmod>
+    </url>
+    <url>
+          <loc>https://pages.msar.me/terms</loc>
+          <lastmod>2020-12-14T13:50:09+00:00</lastmod>
+    </url>
+    <url>
+          <loc>https://pages.msar.me/privacy-policy</loc>
           <lastmod>2020-12-14T13:50:09+00:00</lastmod>
     </url>
     <url>
